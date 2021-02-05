@@ -3,6 +3,7 @@
 
 **LINK TO THE DATASET :** [https://archive.ics.uci.edu/ml/datasets/Census+Income](https://archive.ics.uci.edu/ml/datasets/Census+Income)
 
+
 ## Information
 
 This data was extracted from the census bureau database found at
